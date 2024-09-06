@@ -1,1 +1,1 @@
-# BMI-PROJECT
+# BMI-mini-project
